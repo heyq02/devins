@@ -1,0 +1,14 @@
+.forgejo/workflows/demo.yaml
+  h_a57efa94f24ca5 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ae885015154ef2a88ef9e380f0aac64a5b4a6fc6",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
