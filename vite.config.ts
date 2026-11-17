@@ -2,11 +2,13 @@ import { defineConfig } from "vite-plus";
 
 export default defineConfig({
   fmt: {
+    ignorePatterns: [".agents"],
     sortImports: true,
     sortPackageJson: true,
     sortTailwindcss: true,
   },
   lint: {
+    ignorePatterns: [".agents"],
     env: {
       node: true,
     },
