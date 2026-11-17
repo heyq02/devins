@@ -1,0 +1,48 @@
+.gitattributes
+  h_a57efa94f24ca5 1
+.gitignore
+  h_a57efa94f24ca5 1-56
+.oxlintrc.json
+  h_a57efa94f24ca5 1-10
+.prettierrc
+  h_a57efa94f24ca5 1-4
+README.md
+  h_a57efa94f24ca5 1-132
+nest-cli.json
+  h_a57efa94f24ca5 1-8
+package.json
+  h_a57efa94f24ca5 1-49
+pnpm-lock.yaml
+  h_a57efa94f24ca5 1-3539
+src/app.controller.spec.ts
+  h_a57efa94f24ca5 1-22
+src/app.controller.ts
+  h_a57efa94f24ca5 1-12
+src/app.module.ts
+  h_a57efa94f24ca5 1-10
+src/app.service.ts
+  h_a57efa94f24ca5 1-8
+src/main.ts
+  h_a57efa94f24ca5 1-8
+test/app.e2e-spec.ts
+  h_a57efa94f24ca5 1-29
+tsconfig.build.json
+  h_a57efa94f24ca5 1-8
+tsconfig.json
+  h_a57efa94f24ca5 1-23
+vitest.config.e2e.ts
+  h_a57efa94f24ca5 1-10
+vitest.config.ts
+  h_a57efa94f24ca5 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "773f721e6fe26b855bfa72fd6c6e04fc8318388c",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
