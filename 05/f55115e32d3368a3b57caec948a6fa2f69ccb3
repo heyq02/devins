@@ -1,0 +1,20 @@
+.oxfmtrc.json
+  h_a57efa94f24ca5 2-6
+.oxlintrc.json
+  h_a57efa94f24ca5 9-12
+package.json
+  h_a57efa94f24ca5 5,7,12,17,40
+pnpm-lock.yaml
+  h_a57efa94f24ca5 51-53,404-525,1598-1613,1854-1857,2348-2404,3338-3361,3412-3413,3652-3653
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "05f55115e32d3368a3b57caec948a6fa2f69ccb3",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
