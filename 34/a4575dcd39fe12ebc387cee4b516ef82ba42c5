@@ -1,0 +1,102 @@
+.agents/skills/nestjs-best-practices/SKILL.md
+  h_a57efa94f24ca5 1-131
+.agents/skills/nestjs-best-practices/rules/_sections.md
+  h_a57efa94f24ca5 1-56
+.agents/skills/nestjs-best-practices/rules/_template.md
+  h_a57efa94f24ca5 1-28
+.agents/skills/nestjs-best-practices/rules/api-use-dto-serialization.md
+  h_a57efa94f24ca5 1-182
+.agents/skills/nestjs-best-practices/rules/api-use-interceptors.md
+  h_a57efa94f24ca5 1-202
+.agents/skills/nestjs-best-practices/rules/api-use-pipes.md
+  h_a57efa94f24ca5 1-205
+.agents/skills/nestjs-best-practices/rules/api-versioning.md
+  h_a57efa94f24ca5 1-191
+.agents/skills/nestjs-best-practices/rules/arch-avoid-circular-deps.md
+  h_a57efa94f24ca5 1-80
+.agents/skills/nestjs-best-practices/rules/arch-feature-modules.md
+  h_a57efa94f24ca5 1-82
+.agents/skills/nestjs-best-practices/rules/arch-module-sharing.md
+  h_a57efa94f24ca5 1-141
+.agents/skills/nestjs-best-practices/rules/arch-single-responsibility.md
+  h_a57efa94f24ca5 1-106
+.agents/skills/nestjs-best-practices/rules/arch-use-events.md
+  h_a57efa94f24ca5 1-108
+.agents/skills/nestjs-best-practices/rules/arch-use-repository-pattern.md
+  h_a57efa94f24ca5 1-97
+.agents/skills/nestjs-best-practices/rules/db-avoid-n-plus-one.md
+  h_a57efa94f24ca5 1-139
+.agents/skills/nestjs-best-practices/rules/db-use-migrations.md
+  h_a57efa94f24ca5 1-129
+.agents/skills/nestjs-best-practices/rules/db-use-transactions.md
+  h_a57efa94f24ca5 1-140
+.agents/skills/nestjs-best-practices/rules/devops-graceful-shutdown.md
+  h_a57efa94f24ca5 1-222
+.agents/skills/nestjs-best-practices/rules/devops-use-config-module.md
+  h_a57efa94f24ca5 1-167
+.agents/skills/nestjs-best-practices/rules/devops-use-logging.md
+  h_a57efa94f24ca5 1-232
+.agents/skills/nestjs-best-practices/rules/di-avoid-service-locator.md
+  h_a57efa94f24ca5 1-104
+.agents/skills/nestjs-best-practices/rules/di-interface-segregation.md
+  h_a57efa94f24ca5 1-165
+.agents/skills/nestjs-best-practices/rules/di-liskov-substitution.md
+  h_a57efa94f24ca5 1-221
+.agents/skills/nestjs-best-practices/rules/di-prefer-constructor-injection.md
+  h_a57efa94f24ca5 1-86
+.agents/skills/nestjs-best-practices/rules/di-scope-awareness.md
+  h_a57efa94f24ca5 1-94
+.agents/skills/nestjs-best-practices/rules/di-use-interfaces-tokens.md
+  h_a57efa94f24ca5 1-101
+.agents/skills/nestjs-best-practices/rules/error-handle-async-errors.md
+  h_a57efa94f24ca5 1-125
+.agents/skills/nestjs-best-practices/rules/error-throw-http-exceptions.md
+  h_a57efa94f24ca5 1-114
+.agents/skills/nestjs-best-practices/rules/error-use-exception-filters.md
+  h_a57efa94f24ca5 1-140
+.agents/skills/nestjs-best-practices/rules/micro-use-health-checks.md
+  h_a57efa94f24ca5 1-226
+.agents/skills/nestjs-best-practices/rules/micro-use-patterns.md
+  h_a57efa94f24ca5 1-167
+.agents/skills/nestjs-best-practices/rules/micro-use-queues.md
+  h_a57efa94f24ca5 1-252
+.agents/skills/nestjs-best-practices/rules/perf-async-hooks.md
+  h_a57efa94f24ca5 1-109
+.agents/skills/nestjs-best-practices/rules/perf-lazy-loading.md
+  h_a57efa94f24ca5 1-121
+.agents/skills/nestjs-best-practices/rules/perf-optimize-database.md
+  h_a57efa94f24ca5 1-131
+.agents/skills/nestjs-best-practices/rules/perf-use-caching.md
+  h_a57efa94f24ca5 1-128
+.agents/skills/nestjs-best-practices/rules/security-auth-jwt.md
+  h_a57efa94f24ca5 1-146
+.agents/skills/nestjs-best-practices/rules/security-rate-limiting.md
+  h_a57efa94f24ca5 1-125
+.agents/skills/nestjs-best-practices/rules/security-sanitize-output.md
+  h_a57efa94f24ca5 1-139
+.agents/skills/nestjs-best-practices/rules/security-use-guards.md
+  h_a57efa94f24ca5 1-135
+.agents/skills/nestjs-best-practices/rules/security-validate-all-input.md
+  h_a57efa94f24ca5 1-150
+.agents/skills/nestjs-best-practices/rules/test-e2e-supertest.md
+  h_a57efa94f24ca5 1-178
+.agents/skills/nestjs-best-practices/rules/test-mock-external-services.md
+  h_a57efa94f24ca5 1-179
+.agents/skills/nestjs-best-practices/rules/test-use-testing-module.md
+  h_a57efa94f24ca5 1-153
+skills-lock.json
+  h_a57efa94f24ca5 1-12
+vite.config.ts
+  h_a57efa94f24ca5 5,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "34a4575dcd39fe12ebc387cee4b516ef82ba42c5",
+  "prompts": {},
+  "humans": {
+    "h_a57efa94f24ca5": {
+      "author": "heyongqi10 <heyongqi10@jd.com>"
+    }
+  }
+}
